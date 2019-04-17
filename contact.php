@@ -26,7 +26,7 @@
 
 <h3>We are open Monday – Friday 8:00 AM – 5:00 PM<br>
   (Closed for lunch from 12:00PM to 1:00PM).</h3>
-<p>Appointments can be anytime during normal business hours Monday through Thursday<br />
+<p>Appointments can be anytime during normal business hours Monday through Friday<br />
   by calling (910) 219-3377.</p>
 <h3>We will be closed for the following holidays:</h3>
 <ul class="servicesUL">
