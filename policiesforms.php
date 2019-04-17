@@ -25,7 +25,7 @@
 <h3>Hours</h3>
 <p>Our hours are Monday – Friday, 8:00 AM – 5:00 PM (Closed for lunch from 12:00PM to 1:00PM). We will soon be adding an audiologist to our practice to assist in all audiological exam needs.</p>
 <h3>Appointments</h3>
-<p>Appointments can be anytime during normal business hours Monday through Thursday.
+<p>Appointments can be anytime during normal business hours Monday through Friday.
 
   We will be closed for the following holidays:</p>
 <ul class="servicesUL">
